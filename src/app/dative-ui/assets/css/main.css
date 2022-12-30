@@ -1,0 +1,40 @@
+.gradient-dative-01 {
+    background: linear-gradient(0deg, #95D3E2 0%, #FFFFFF 100%);
+}
+
+.gradient-dative-02 {
+    background: linear-gradient(180deg, #C8247F 0%, #F29FC5 100%);
+}
+
+/* .gradient-dative-03 {
+    
+} */
+
+.gradient-dative-04 {
+    background: linear-gradient(180deg, #73CDFF 0%, #C9ECFF 104.13%);
+}
+
+.gradient-dative-05 {
+    background: url('assets/img/dative-footer.jpg');
+    background-size: cover;
+}
+
+.gradient-home-01 {
+    background: linear-gradient(180deg, #95D3E2 0%, #FFFFFF 100%);
+}
+
+.gradient-home-02 {
+    background: linear-gradient(180deg, #C8247F 0%, #F29FC5 100%);
+}
+
+
+body {
+    overflow-y: scroll;
+}
+
+.title-home-dative {
+  background: -webkit-linear-gradient(45deg, #C8247F 5.43%, #9AE5F3 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: white 2px -5px;
+}
