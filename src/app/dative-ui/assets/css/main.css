@@ -38,3 +38,7 @@ body {
   -webkit-text-fill-color: transparent;
   text-shadow: white 2px -5px;
 }
+
+.border-linear-gradient {
+    border-image: linear-gradient(to right, var(--left), var(--right)) 10%;
+}
